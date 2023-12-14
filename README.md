@@ -1,5 +1,5 @@
 - 👋 Merhaba, sayfaya hoşgeldiniz. 
-- 👀 Bu sayfada Gümüşhane Üniversitesi Elektrik-Elektronik Mühendisliği'nde okuyan bazı öğrenci arkadaşlarımızın yaptığı tasarım/bitirme projelerinin bilgilerini ve kodlarını ve ayrıca aldıkları bazı derslerin materyallerini ilgili depolarda bulabilirsiniz.
+- 👀 Bu hesapta Gümüşhane Üniversitesi Elektrik-Elektronik Mühendisliği'nde okuyan bazı öğrenci arkadaşlarımızın yaptığı tasarım/bitirme projelerin ve aldıkları bazı derslerin materyallerini (e.g., kod, bilgi, bağlantı) ilgili depolarda bulabilirsiniz.
 - 🌱 Github'ı öğrenmeye çalışıyoruz, bu yüzden profesyonel bir sayfa değil, daha iyi olmak ümidiyle.
 - 📫 Email adresimiz: m.tahakoroglu@gumushane.edu.tr & [![Gmail Badge](https://img.shields.io/badge/-m.tahakoroglu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.tahakoroglu@gmail.com)](mailto:m.tahakoroglu@gmail.com)
 
