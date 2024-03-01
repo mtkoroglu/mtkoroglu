@@ -1,7 +1,7 @@
 - 👋 Merhaba, sayfaya hoşgeldiniz. 
 - 👀 Bu hesapta Gümüşhane Üniversitesi Elektrik-Elektronik Mühendisliği'nde okuyan bazı öğrenci arkadaşlarımızın yaptığı tasarım/bitirme projelerin ve aldıkları bazı derslerin materyallerini (e.g., kod, bilgi, bağlantı) ilgili depolarda bulabilirsiniz.
 - 🌱 Github'ı öğrenmeye çalışıyoruz, bu yüzden profesyonel bir sayfa değil, daha iyi olmak ümidiyle.
-- 📫 Email adresimiz: m.tahakoroglu@gumushane.edu.tr & [![Gmail Badge](https://img.shields.io/badge/-m.tahakoroglu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.tahakoroglu@gmail.com)](mailto:m.tahakoroglu@gmail.com)
+- 📫 Email: m.tahakoroglu@gumushane.edu.tr & [![Gmail Badge](https://img.shields.io/badge/-m.tahakoroglu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.tahakoroglu@gmail.com)](mailto:m.tahakoroglu@gmail.com)
 
 <p align="center"><img src="figure/taha face detection DL.gif" alt="face detection with deep learning" width=%100 height=auto></p>
 
