@@ -44,6 +44,7 @@
 <br><br>
 </div>
 
+<img src="https://drive.google.com/uc?export=view&id=1etYx8clqaVmCN8y3dC6NPxt4dlmz1upA" alt="when I was in Columbus, OH" width="500" height=auto>
 <!---
 taha-koroglu/taha-koroglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
