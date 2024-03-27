@@ -1,7 +1,7 @@
 - 👋 Merhaba, sayfaya hoşgeldiniz. 
 - 👀 Bu hesapta Gümüşhane Üniversitesi Elektrik-Elektronik Mühendisliği'nde okuyan bazı öğrenci arkadaşlarımızın yaptığı tasarım/bitirme projelerin ve aldıkları bazı derslerin materyallerini (e.g., kod, bilgi, bağlantı) ilgili depolarda bulabilirsiniz.
 - 🌱 Github'ı öğrenmeye çalışıyoruz, bu yüzden profesyonel bir sayfa değil, daha iyi olmak ümidiyle.
-- 📫 Email: m.tahakoroglu@gumushane.edu.tr & [![Gmail Badge](https://img.shields.io/badge/-m.tahakoroglu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.tahakoroglu@gmail.com)](mailto:m.tahakoroglu@gmail.com)
+- 📫 Email: m.tahakoroglu@gumushane.edu.tr | [![Gmail Badge](https://img.shields.io/badge/-m.tahakoroglu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.tahakoroglu@gmail.com)](mailto:m.tahakoroglu@gmail.com)
 
 <p align="center"><img src="figure/taha face detection DL.gif" alt="face detection with deep learning" width=%100 height=auto></p>
 
@@ -20,9 +20,15 @@
       <br>C++
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
+  </tr>
+  <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -35,16 +41,12 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
  </tr>
 </table>
 <br><br>
 </div>
 
-<img src="https://drive.google.com/uc?export=view&id=1IYsUtU9hzCTua4Z921oryHX0F_7IWNoa" alt="when I was in Columbus, OH" width="500" height=auto>
+<img src="figure/mtkoroglu-github-io-website.jpg" alt="when I was in Columbus, OH" width="1000" height=auto>
 <!---
 taha-koroglu/taha-koroglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
